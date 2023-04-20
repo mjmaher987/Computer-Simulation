@@ -1,2 +1,2 @@
 # Computer-Simulation
-Under Construction - Updated by the new practical assignments of tis course
+Under Construction - Updated by the new practical assignments of this course
